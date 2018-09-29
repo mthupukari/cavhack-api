@@ -13,6 +13,13 @@
     "picture_url": "https://images.unsplash.com/photo-1501871732394-eccc65227089?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c5cf5ec5d264815dc1477e80306c47e0&auto=format&fit=crop&w=1950&q=80",
     "interests": ["traveling", "photography", "swimming"],
     "skills":["swimming", "photography"]
+  },
+  {
+    "firstName": "Mahit",
+    "lastName": "Thupubjhbv1234kari",
+    "bio": "I like burrito",
+    "interests": ["Robotics", "Programming", "Soccer"],
+    "skills":["none"]
   }
   ]
   
